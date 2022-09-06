@@ -1,8 +1,8 @@
-# Lab: Cambiando el estilo de texto
+# Lab: Cambiando el Estilo de Texto
 
 ## Objetivos
-- Uitilizar el elemento `strong` para resalta el texto mas importante    
-- Utilizar el elemento `em` para  enfatiza el texto
+- Uitilizar el elemento `strong` para resalta texto
+- Utilizar el elemento `em` para  enfatiza  texto
 
 
 ## Introducción 
@@ -17,6 +17,9 @@ En este lab daremos estilos a diferentes párrafos dentro del sitio web
 ## Instrucciones
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
-1. Utiliza la etiqueta `<strong>` para resaltar parte de un parrafo
-2. Efaticemos  utilizando la etiqueta `<em>`.
-
+1. Agrega las etiquetas `<em> </em>` al texto: "HyperText Markup Language". Este texto se encuentra dentro del div con clase “`html-exp`”. 
+2. Agrega las etiquetas `<strong> </strong>` a la palabra "estructura" y "contenido". Estas palabras se encuentran dentro del `div` con clase “`html-exp`”
+3. Agrega las etiquetas `<em></em>` a las palabras "event listeners" y "event handlers". Estas palabras se encuentran dentro del `div` con clase “`js-exp`”
+4. Guarda tus cambios (Archivo > Guardar)
+5. Abre tu archivo html en el navegador y verifica que puedas ver el contenido que agregaste.
+6. Sube tus cambios a Github y envía por Canvas el enlace a tu repositorio.
